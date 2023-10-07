@@ -1,6 +1,5 @@
-# Desafio de Projeto
+# 🛠 Desafio de Projeto
 
-Dio - Desafio de projeto 
-
-Primeiro repositório
+- Dio - Desafio de projeto
+  - Primeiro repositório
 
